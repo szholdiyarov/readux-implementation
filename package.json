@@ -1,0 +1,11 @@
+{
+  "name": "redux-impl",
+  "version": "1.0.0",
+  "description": "This is an implementation of redux framework to understand its principles in depth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
