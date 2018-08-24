@@ -4,6 +4,7 @@
   "description": "This is an implementation of redux framework to understand its principles in depth",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
